@@ -1,0 +1,8 @@
+node_modules/
+/TizenProject/main.bundle.js
+/TizenProject/Stopwatch.wgt
+/TizenProject/index.html
+/TizenProject/.settings
+/TizenProject/.sign
+/author.p12
+/package-lock.json
